@@ -1,4 +1,4 @@
-[![Banner](https://github.com/ChristopherTsh/ChristopherTsh/raw/main/Untitled.png)](https://github.com/ChristopherTsh/ChristopherTsh)
+[![Banner](https://github.com/ChristopherTsh/ChristopherTsh/blob/main/Untitled%20(1).png)](https://github.com/ChristopherTsh/ChristopherTsh)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher Thapelo Tshoma
 ==================================================================================================================================================
