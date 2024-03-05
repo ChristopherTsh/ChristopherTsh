@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer
 ------------------
-
+Christopher Thapelo Tshoma, I am enrolled in the System Development program at Codespace, where I have been actively engaging with CSS, HTML, and JavaScript for the past several months.
 
 
 *   🌍  I'm based in South Africa
