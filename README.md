@@ -26,11 +26,16 @@ Christopher Thapelo Tshoma, I am enrolled in the System Development program at C
 </p>
 
 ```
-Skills:  / JS / HTML / CSS
+## Skills  
+```
+ - JS
+ - HTML
+ - CSS
+```
 
 - 🔭 I’m currently working on javascript 
-- 👯 I’m looking to collaborate on website  
- ```
+- 👯 I’m looking to collaborate on websit
+
 
 
 
