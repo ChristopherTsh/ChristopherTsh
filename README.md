@@ -5,12 +5,12 @@ Software Developer
 ------------------
 Christopher Thapelo Tshoma, I am enrolled in the System Development program at Codespace, where I have been actively engaging with CSS, HTML, and JavaScript for the past several months.
 
-
+ 
 *   🌍  I'm based in South Africa
 *   ✉️  You can contact me at [christophertshoma0045@gmail.com](mailto:christophertshoma0045@gmail.com)
 *   🧠  I'm learning languages
 *   🤝  I'm open to collaborating on website### Skills
-*   
+   
 ### Socials
 
 <p align="left">
@@ -25,13 +25,16 @@ Christopher Thapelo Tshoma, I am enrolled in the System Development program at C
     </a>
 </p>
 
+```
 Skills:  / JS / HTML / CSS
 
 - 🔭 I’m currently working on javascript 
 - 👯 I’m looking to collaborate on website  
+ ```
 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChristopherTsh)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ChristopherTSH)](https://github.com/ryo-ma/github-profile-trophy)
 
