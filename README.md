@@ -27,19 +27,18 @@ Christopher Thapelo Tshoma, I am enrolled in the System Development program at C
 
 
 ## Skills  
-```
+
  - JS
  - HTML
  - CSS
-```
+## I'm 
 
 - 🔭 I’m currently working on javascript 
 - 👯 I’m looking to collaborate on websit
 
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChristopherTsh)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChristopherTsh) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ChristopherTSH)](https://github.com/ryo-ma/github-profile-trophy)
 
