@@ -25,17 +25,18 @@ Software Developer
     </a>
 </p>
 
-### Badges
-**My GitHub Stats**
-<a href="http://www.github.com/ChristopherTsh">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChristopherTsh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="ChristopherTsh's GitHub stats">
-</a>
-<a href="http://www.github.com/ChristopherTsh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherTsh&stroke=0f172a&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=0f172a&currStreakLabel=0891b2&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true">
-</a>
-<a href="https://github.com/ChristopherTsh" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherTsh&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
-</a>
+Skills:  / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 👯 I’m looking to collaborate on website  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChristopherTSH)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChristopherTSH)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherTSH&show_icons=true)  
+
 
 
 
