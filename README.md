@@ -1,4 +1,4 @@
-![Banner]([https://link_to_your_banner_image](https://github.com/ChristopherTsh/ChristopherTsh/blob/main/Untitled.png)
+![Banner](([https://link_to_your_banner_image](https://github.com/ChristopherTsh/ChristopherTsh/blob/main/Untitled.png) width: 200px)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher Thapelo Tshoma
