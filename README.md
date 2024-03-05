@@ -25,7 +25,7 @@ Christopher Thapelo Tshoma, I am enrolled in the System Development program at C
     </a>
 </p>
 
-```
+
 ## Skills  
 ```
  - JS
