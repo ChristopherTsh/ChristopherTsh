@@ -76,7 +76,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ChristopherTsh/ChristopherTsh/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 ###
 
