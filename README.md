@@ -1,4 +1,4 @@
-[![Banner](https://github.com/ChristopherTsh/ChristopherTsh/blob/main/Untitled%20(1).png)](https://github.com/ChristopherTsh/ChristopherTsh)
+[![Banner](https://github.com/ChristopherTsh/ChristopherTsh/blob/main/Screenshot%202024-09-04%20113206.png)](https://github.com/ChristopherTsh/ChristopherTsh)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher Thapelo Tshoma
 ==================================================================================================================================================
@@ -127,5 +127,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ChristopherTsh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
